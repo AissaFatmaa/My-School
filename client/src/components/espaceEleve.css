@@ -1,0 +1,28 @@
+.espace img {
+    width: 100%;
+    height: 100%;
+}
+
+.espace .bg-black {
+    background: #000;
+}
+
+.espace .skill-block {
+    width: 30%;
+}
+
+@media (min-width: 991px) and (max-width:1200px) {
+.espace  .skill-block {
+        padding: 32px !important;
+    }
+}
+
+@media (min-width: 1200px) {
+.espace  .skill-block {
+        padding: 56px !important;
+    }
+}
+
+.espace {
+    background-color: #eeeeee;
+}

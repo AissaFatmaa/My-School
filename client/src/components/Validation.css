@@ -1,0 +1,312 @@
+/* .profil .padding {
+  padding: 3rem !important;
+  margin-left: 200px
+} */
+
+.profilvalidation .card-img-top {
+    height: 300px;
+}
+
+.profilvalidation .card-no-border .card {
+    border-color: #d7dfe3;
+    border-radius: 4px;
+    margin-bottom: 30px;
+    -webkit-box-shadow: 0px 5px 20px rgba(0, 0, 0, 0.05);
+    box-shadow: 0px 5px 20px rgba(0, 0, 0, 0.05)
+}
+
+.profilvalidation .card-body {
+    -ms-flex: 1 1 auto;
+    flex: 1 1 auto;
+    padding: 1.25rem
+}
+
+.profilvalidation .pro-img {
+    margin-top: -90px;
+    margin-bottom: 20px
+}
+
+.profilvalidation .little-profile .pro-img img {
+    width: 128px;
+    height: 128px;
+    -webkit-box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+    border-radius: 100%
+}
+
+
+
+.profilvalidation h3 {
+    line-height: 30px !important;
+    font-size: 21px !important;
+}
+
+.profilvalidation .btn-rounded.btn-md {
+    padding: 12px 35px;
+    font-size: 16px
+}
+
+
+
+.profilvalidation .profil .btn-primary,
+.profilvalidation .profil .btn-primary.disabled {
+    background: #9c0000;
+    border: 1px solid #9c0000;
+    -webkit-box-shadow: 0 2px 2px 0 rgba(116, 96, 238, 0.14), 0 3px 1px -2px rgba(116, 96, 238, 0.2), 0 1px 5px 0 rgba(116, 96, 238, 0.12);
+    box-shadow: 0 2px 2px 0 rgba(116, 96, 238, 0.14), 0 3px 1px -2px rgba(116, 96, 238, 0.2), 0 1px 5px 0 rgba(116, 96, 238, 0.12);
+    -webkit-transition: 0.2s ease-in;
+    -o-transition: 0.2s ease-in;
+    transition: 0.2s ease-in;
+    margin: 10px;
+}
+
+.profilvalidation .btn-rounded {
+    border-radius: 60px;
+    padding: 7px 18px
+}
+
+.profilvalidation .m-t-20 {
+    margin-top: 20px
+}
+
+.profilvalidation .text-center {
+    text-align: center !important
+}
+
+/* .profilvalidation .profil h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    color: #455a64 !important;
+    ;
+    font-family: "Poppins", sans-serif !important;
+    ;
+    font-weight: 400 !important;
+} */
+
+.profilvalidation p {
+    margin-top: 0 !important;
+    ;
+    margin-bottom: 1rem !important;
+}
+
+/* login */
+
+.profilvalidation .login {
+    height: 550px !important;
+    ;
+    display: flex !important;
+    ;
+    align-items: center !important;
+    ;
+    width: 100% !important;
+    ;
+    justify-content: center !important;
+    ;
+}
+
+.profilvalidation .login .form-container {
+    background: linear-gradient(#9c0000, #D31128) !important;
+    ;
+    font-family: 'Roboto', sans-serif !important;
+    ;
+    font-size: 0 !important;
+    ;
+    padding: 0 15px !important;
+    ;
+    border: 1px solid #DC2036 !important;
+    ;
+    border-radius: 15px !important;
+    ;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.2) !important;
+    ;
+}
+
+.profilvalidation .login .form-container .form-icon {
+    color: #fff !important;
+    ;
+    font-size: 13px !important;
+    ;
+    text-align: center !important;
+    ;
+    text-shadow: 0 0 20px rgba(0, 0, 0, 0.2) !important;
+    ;
+    width: 50% !important;
+    ;
+    padding: 70px 0 !important;
+    ;
+    vertical-align: top !important;
+    ;
+    display: inline-block !important;
+    ;
+}
+
+.profilvalidation h5 {
+    font-size: 16px !important;
+}
+
+.profilvalidation h6 {
+    font-size: 15px !important;
+}
+
+.profilvalidation h3 {
+    font-weight: bolder;
+}
+
+.profilvalidation p {
+    font-size: 16px !important;
+
+}
+
+.profilvalidation .login .form-container .form-icon i {
+    font-size: 124px;
+    margin: 0 0 15px;
+    display: block;
+}
+
+.profilvalidation .login .form-container .form-icon .signup a {
+    color: #fff;
+    text-transform: capitalize;
+    transition: all 0.3s ease;
+}
+
+.profilvalidation .login .form-container .form-icon .signup a:hover {
+    text-decoration: underline;
+}
+
+.profilvalidation .login .form-container .form-horizontal {
+    background: rgba(255, 255, 255, 0.99);
+    width: 50%;
+    padding: 60px 30px;
+    margin: -20px 0;
+    border-radius: 15px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
+    display: inline-block;
+}
+
+.profilvalidation .login .form-container .title {
+    color: #454545;
+    font-size: 23px;
+    font-weight: 900;
+    text-align: center;
+    text-transform: capitalize;
+    letter-spacing: 0.5px;
+    margin: 0 0 30px 0;
+}
+
+.profilvalidation .login .form-horizontal .form-group {
+    background-color: rgba(255, 255, 255, 0.15);
+    margin: 0 0 15px;
+    border: 1px solid #b5b5b5;
+    border-radius: 20px;
+}
+
+.profilvalidation .login .form-horizontal .input-icon {
+    color: #b5b5b5;
+    font-size: 15px;
+    text-align: center;
+    line-height: 38px;
+    height: 35px;
+    width: 40px;
+    vertical-align: top;
+    display: inline-block;
+}
+
+.profilvalidation .login .form-horizontal .form-control {
+    color: #b5b5b5;
+    background-color: transparent;
+    font-size: 14px;
+    letter-spacing: 1px;
+    width: calc(100% - 55px);
+    height: 33px;
+    padding: 2px 10px 0 0;
+    box-shadow: none;
+    border: none;
+    border-radius: 0;
+    display: inline-block;
+    transition: all 0.3s;
+}
+
+.profilvalidation .login .form-horizontal .form-control:focus {
+    box-shadow: none;
+    border: none;
+}
+
+.profilvalidation .login .form-horizontal .form-control::placeholder {
+    color: #b5b5b5;
+    font-size: 13px;
+    text-transform: capitalize;
+}
+
+.profilvalidation .login .form-horizontal .btn {
+    color: rgba(255, 255, 255, 0.8);
+    background: #E9374C;
+    font-size: 15px;
+    font-weight: 500;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    width: 100%;
+    margin: 0 0 10px 0;
+    border: none;
+    border-radius: 20px;
+    transition: all 0.3s ease;
+}
+
+.profilvalidation .login .form-horizontal .btn:hover,
+.profilvalidation .login .form-horizontal .btn:focus {
+    color: #fff;
+    background-color: #D31128;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.5);
+}
+
+.profilvalidation .login .form-horizontal .forgot-pass {
+    font-size: 12px;
+    text-align: center;
+    display: block;
+}
+
+.profilvalidation .login .form-horizontal .forgot-pass a {
+    color: #999;
+    transition: all 0.3s ease;
+}
+
+.profilvalidation .login .form-horizontal .forgot-pass a:hover {
+    color: #777;
+    text-decoration: underline;
+}
+
+@media only screen and (max-width:576px) {
+    .profilvalidation .login .form-container {
+        padding-bottom: 15px;
+    }
+
+    .profilvalidation .login .form-container .form-icon {
+        width: 100%;
+        padding: 20px 0;
+    }
+
+    .profilvalidation .login .form-container .form-horizontal {
+        width: 100%;
+        margin: 0;
+    }
+}
+
+.profilvalidation button {
+    font-size: 14px !important;
+
+}
+
+.profilvalidation .form-container {
+    width: 624px !important;
+    height: 274px !important;
+}
+
+.profilvalidation .form-bg {
+    width: 100% !important;
+}
+
+.profilvalidation input {
+    font-size: 14px !important;
+}
